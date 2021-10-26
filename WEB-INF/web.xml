@@ -1,0 +1,13 @@
+<web-app>  
+  
+<servlet>  
+<servlet-name>GeometryServlet</servlet-name>  
+<servlet-class>GeometryServlet</servlet-class>  
+</servlet>  
+  
+<servlet-mapping>  
+<servlet-name>GeometryServlet</servlet-name>  
+<url-pattern>/geometry</url-pattern>  
+</servlet-mapping>  
+  
+</web-app> 
